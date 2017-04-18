@@ -4,7 +4,7 @@
 HOW TO START ECHO
 ****************************************************************************************************
 
-1. UNZIP jetty-distribution-9.4.2.v20170220.zip in your C:\ drive
+1. UNZIP echo-on-jetty-9.4.2.v20170220.zip in your C:\ drive
 
 2. launch start.bat in the main (jetty-distribution-9.4.2.v20170220) folder
 
